@@ -1,0 +1,1 @@
+node "hackerRank.js" "credentials.json" "./questions.js"

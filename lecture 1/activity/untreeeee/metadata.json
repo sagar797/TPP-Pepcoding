@@ -1,0 +1,15 @@
+{
+    "isfile": false,
+    "name": "d10",
+    "children": [
+        {
+            "isfile": false,
+            "name": "d20",
+            "children": []
+        },
+        {
+            "isfile": true,
+            "name": "f1.txt.txt"
+        }
+    ]
+}
